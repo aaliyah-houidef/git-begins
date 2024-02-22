@@ -3,3 +3,5 @@ git commit -m "message"
 git push
 
 git pull origin main
+git branch
+git checkout
